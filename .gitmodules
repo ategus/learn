@@ -1,0 +1,6 @@
+[submodule "hugo/hairflair/themes/ananke"]
+	path = hugo/hairflair/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "hugo/hairflair/themes/beautifulhugo"]
+	path = hugo/hairflair/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
