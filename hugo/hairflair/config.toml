@@ -1,0 +1,4 @@
+baseURL = 'http://hairflair.store'
+languageCode = 'en-us'
+title = 'hairflair'
+theme = 'mini'

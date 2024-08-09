@@ -1,6 +1,6 @@
-[submodule "hugo/hairflair/themes/ananke"]
-	path = hugo/hairflair/themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "hugo/hairflair/themes/beautifulhugo"]
 	path = hugo/hairflair/themes/beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "hugo/hairflair/themes/mini"]
+	path = hugo/hairflair/themes/mini
+	url = https://github.com/nodejh/hugo-theme-mini.git

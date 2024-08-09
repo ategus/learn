@@ -1,0 +1,15 @@
+2024-08-05 19:10:16,145 - Visit me at http://0.0.0.0:5555
+2024-08-05 19:10:16,163 - Broker: redis://localhost:6379/0
+2024-08-05 19:10:16,165 - Registered tasks: 
+['celery.accumulate',
+ 'celery.backend_cleanup',
+ 'celery.chain',
+ 'celery.chord',
+ 'celery.chord_unlock',
+ 'celery.chunks',
+ 'celery.group',
+ 'celery.map',
+ 'celery.starmap',
+ 'tasks.log_message']
+2024-08-05 19:10:16,201 - Connected to redis://localhost:6379/0
+2024-08-05 19:11:20,617 - Connected to redis://localhost:6379/0

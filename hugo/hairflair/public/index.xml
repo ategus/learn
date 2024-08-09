@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hairflair</title>
+    <link>http://hairflair.store/</link>
+    <description>Recent content on hairflair</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://hairflair.store/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hairflair.store</title>
+      <link>http://hairflair.store/landing-page/</link>
+      <pubDate>Tue, 06 Aug 2024 15:06:20 +0200</pubDate>
+      
+      <guid>http://hairflair.store/landing-page/</guid>
+      <description> Welcome! 🔗</description>
+    </item>
+    
+  </channel>
+</rss>
