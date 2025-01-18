@@ -122,3 +122,6 @@ dmypy.json
 .DS_Store
 *.swp
 
+# Exclude all node_modules directories
+node_modules/
+**/node_modules/
